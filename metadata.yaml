@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/714
     wikipedia: http://en.wikipedia.org/wiki/Earl_Derr_Biggers
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30836#Seven-Keys-to-Baldpate
 gutenberg_issued: '2010-01-02'
 gutenberg_type: Text
 identifiers:
