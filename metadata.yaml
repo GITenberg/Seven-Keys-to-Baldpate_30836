@@ -1,0 +1,28 @@
+_repo: Seven-Keys-to-Baldpate_30836
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Biggers, Earl Derr
+    birthdate: 1884
+    deathdate: 1933
+    gutenberg_agent_id: '714'
+    url: http://www.gutenberg.org/2009/agents/714
+    wikipedia: http://en.wikipedia.org/wiki/Earl_Derr_Biggers
+description: ''
+gutenberg_issued: '2010-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30836'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+- !lcsh 'Detective and mystery stories'
+title: Seven Keys to Baldpate
+url: http://www.gutenberg.org/ebooks/30836
